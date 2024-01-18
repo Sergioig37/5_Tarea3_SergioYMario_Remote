@@ -16,8 +16,8 @@ function cambioTitulo(){
 }
 function cambioTitulo(){
     var titulo = document.getElementById('titulo');
-    if(titulo.style.color = 'blue'){
-        titulo.style.color == 'Black';
+    if(titulo.style.color = 'red'){
+        titulo.style.color == 'white';
     }else{
         titulo.style.color = 'blue';
     }
