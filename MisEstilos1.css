@@ -7,3 +7,9 @@ h1{
     font-size: 15px;
     color: purple;
 }
+
+a{
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: red;
+}
