@@ -22,3 +22,4 @@ function cambioTitulo(){
         titulo.style.color = 'blue';
     }
 }
+/*eSPEROQ UE ESTO FUNCIONE*/
